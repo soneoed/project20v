@@ -1,0 +1,16 @@
+The purpose of this software and associated files is to assist in a SR20VE 20V conversion. In particular, the ECU side of things. 
+
+I am going to add the DatalogDyno program here eventually which is very useful for doing performance tests on the street.
+
+The software for this project is released under the GNU GPL v3 licence, and the associated data files are covered by a Creative Commons Attribution-Noncommercial-Share Alike 2.5 Australia License. 
+
+h2. CONTENTS
+
+*README.textile*
+This file.
+
+*N14.20V.NistuneAddressFile.adr*
+Mine own address file to be used with a DE ECU, but with as much information from the N15 SR16VE ECU as possible.
+
+*N14.20V.bin*
+The actual binary to be put on the ECU. In particular, this file is covered by a Creative Commons Attribution-Noncommercial-Share Alike 2.5 Australia License.
